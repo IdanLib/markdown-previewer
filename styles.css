@@ -1,0 +1,21 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: orange;
+}
+
+#header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.window-header {
+    text-align: center;
+}
+
+.label {
+    font-size: 30px;
+}
+
+.bi {
+    font-size: 1.3rem;
+}
